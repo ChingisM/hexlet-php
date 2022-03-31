@@ -1,0 +1,17 @@
+{
+    "name": "chingis_m/hexlet-php",
+    "description": "My first php project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "ChingisM\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chingis",
+            "email": "sevenpluzzz@gmail.com"
+        }
+    ],
+    "require": {}
+}
